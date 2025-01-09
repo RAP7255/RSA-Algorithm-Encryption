@@ -21,7 +21,7 @@ This C++ program implements RSA encryption and decryption. It allows users to en
 ### 1. Clone the Repository
 Clone this repository to your local machine using:
 bash
-git clone https://github.com/your-username/rsa-encryption.git
+git clone https://github.com/RAP7255/RSA-Algorithm-Encryption.git
 
 ### 2. Compile the Program
 Navigate to the project directory and compile the code:
