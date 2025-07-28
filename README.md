@@ -10,7 +10,8 @@ This C++ program implements RSA encryption and decryption. It allows users to en
 - **Prime Validation**: Ensures that the keys provided are prime numbers.
 - **Efficient Modular Exponentiation**: Uses exponentiation by squaring for faster encryption and decryption of large numbers.
 - **File Handling**: Reads plaintext from a file, encrypts it, and saves it to a new encrypted file. Decrypts an encrypted file back to plaintext.
-
+<br>
+<hr>
 ## Prerequisites
 
 - A C++ compiler (such as `g++`).
