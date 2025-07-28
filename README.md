@@ -15,6 +15,7 @@ This C++ program implements RSA encryption and decryption. It allows users to en
 ## Prerequisites
 
 - A C++ compiler (such as `g++`).
+- <hr>
 - Basic understanding of how RSA encryption works.
 
 ## How to Use
