@@ -18,6 +18,7 @@ This C++ program implements RSA encryption and decryption. It allows users to en
 - Basic understanding of how RSA encryption works.
 
 ## How to Use
+<hr>
 
 ### 1. Clone the Repository
 Clone this repository to your local machine using:
